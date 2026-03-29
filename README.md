@@ -159,11 +159,15 @@ project/
 
 ---
 
-## 👥 Team
+## 🧩 Team Contributions
 
-* Fatima Zahrae : Algorithm
-* Hiba Ait Belmoumene : Parsing
-* Noamane Elhansali : Output + UI
+Each team member contributed to a specific part of the system:
+
+* 🎨 **Noamane Elhansali** — Developed the **User Interface (UI)** using Tkinter and handled result visualization
+* 🔎 **Hiba Ait Belmoumene** — Implemented the **parsing and input validation** logic
+* 🧠 **Fatima Zahrae Elhand** — Built the **core asteroid analysis algorithm** and risk evaluation system
+
+👉 This division ensured a modular, efficient, and well-structured development process.
 
 ---
 
