@@ -2,6 +2,15 @@
 
 ### Smart Risk Analysis for Space Safety 🌌
 ![Asteroid Demo](assets/image.png)
+
+---
+
+## 👥 Team
+
+- 👩‍💻 Fatima Zahrae  
+- 👩‍💻 Hiba  
+- 👨‍💻 Noamane  
+
 ---
 
 ## 🧠 Overview
